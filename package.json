@@ -10,7 +10,4 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.4.1"
-  }
 }
