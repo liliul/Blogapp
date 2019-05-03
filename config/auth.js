@@ -20,7 +20,7 @@ module.exports = function(passport){
                 if(batem){
                     return done(null, usuario)
                 }else{
-                    return done(null, false, {message: 'Senha invorreta'})
+                    return done(null, false, {message: 'Senha incorreta'})
                 }
             })
         })
